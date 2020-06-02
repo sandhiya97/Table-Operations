@@ -1,0 +1,17 @@
+.topnav-right {
+    float: right;
+  }
+  
+  h2{
+    text-align: center;
+  }
+ 
+  .div1
+  {position:absolute;
+  z-index:100;
+  left:80%;
+  top:15%;
+  border: thick solid black;
+  }
+
+  
